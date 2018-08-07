@@ -5,7 +5,8 @@ def simple_curfew_checker(time)
 
 
 def curfew_checker(time)
-  elsif time >= 23 
+  if time >= 23 
+    puts"You are WAY past your curfew!"
 end
 end
 
