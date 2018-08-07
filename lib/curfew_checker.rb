@@ -11,7 +11,7 @@ end
 end
 
 def complex_curfew_checker(time)
-  elsif time 
+elsif 
 end
 
 def deluxe_curfew_checker(time)
